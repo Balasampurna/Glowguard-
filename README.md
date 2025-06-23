@@ -16,11 +16,8 @@ An energy-saving smart lighting system using PIR and LDR sensors to automate lig
 - If it’s dark *and* motion is detected → Light turns ON
 - Else → Light stays OFF
 
-## 📷 Project Demo
-*Insert images or video links if available*
-
 ## 💡 Why GlowGuard?
 Helps reduce electricity usage in classrooms, hostels, and corridors by using sensor-based automation.
 
 ## 👩‍💻 Built By
-- Your Name
+- Bala sampurna Yerigala 
